@@ -1,0 +1,89 @@
+html {
+    background-color: darkred;
+  }
+  
+  
+  body {
+    width: 600px;
+    padding: 25px;
+    background-color: rgb(255, 255, 255);
+    margin: 25px auto;
+    border-radius: 25px;
+  }
+  
+  img {
+    width: 430px;
+  }
+  
+  
+  .pimg {
+    text-align: center;
+  }
+  
+  .pimg:hover{
+    border:darkred solid
+  }
+  
+  div {
+    padding-top: 10px;
+    padding-left: 50px;
+    border: grey 1px solid;
+    background-color: rgb(235, 235, 235);
+  }
+  
+  
+  h2,
+  p {
+    font-family: "Open Sans", sans-serif;
+  }
+  
+  
+  h1,
+  h2 {
+    font-family: "Maven Pro", sans-serif;
+    font-size: 24px;
+  }
+  p {
+    letter-spacing: 0.3;
+  }
+  
+  
+  h1 {
+    color: rgb(107, 126, 0);
+    font-weight: lighter;
+  }
+  
+  
+  h2 {
+    font-size: 20px;
+    color: darkred;
+  }
+  
+  .button1{
+    background-color: rgb(107, 126, 0);
+    color: rgb(255, 255, 255);
+    border: grey 1px solid
+  }
+
+  .button1:hover{
+    cursor: pointer;
+    background-color: rgb(88, 104, 0);
+    color: rgb(202, 200, 200);
+  }
+  
+  .bold{
+    font-style: bold;
+    color: darkred;
+  }
+
+  .bold1{
+    font-style: bold;
+    font-weight: bold;
+    color: black
+  }
+
+ 
+  
+  
+  
+  
